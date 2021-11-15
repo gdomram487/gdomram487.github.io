@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-11-15T10:30:37+01:00",
+  "id": "trabajo1.1",
+  "duration": 15,
+  "title": "Bastionado del arranque del sistema",
+  "summary": "proteccion-de-bios",
+  "source": "codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "bastionado",
+    "bios",
+    "seguridad"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/gdomram487/Hardening/issues",
+  "url": "trabajo1.1"
+}
